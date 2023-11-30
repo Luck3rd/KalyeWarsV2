@@ -1236,7 +1236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44942673f88641f4599badf333c1605b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHP: {fileID: 0}
+  enemyHP: {fileID: 369422910}
   damage: 10
 --- !u!1 &1120027108
 GameObject:
@@ -1329,7 +1329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44942673f88641f4599badf333c1605b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHP: {fileID: 0}
+  enemyHP: {fileID: 369422910}
   damage: 10
 --- !u!1 &1185243634
 GameObject:
@@ -1608,7 +1608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44942673f88641f4599badf333c1605b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHP: {fileID: 0}
+  enemyHP: {fileID: 369422910}
   damage: 10
 --- !u!1 &1355292615
 GameObject:
